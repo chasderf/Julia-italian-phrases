@@ -1,0 +1,84 @@
+
+julia> One = "Uno"
+"Uno"
+
+julia> Two = "due"
+"due"
+
+julia> Three = "tre"
+"tre"
+
+julia> Four = "Quattro"
+"Quattro"
+
+julia> Five = "Cinque"
+"Cinque"
+
+julia> Six = "sei"
+"sei"
+
+julia> Sevan = "sette"
+"sette"
+
+julia> Eight = "Otto"
+"Otto"
+
+julia> Nine = "Nove"
+"Nove"
+
+julia> Ten = "Dieci"
+"Dieci"
+
+julia> Eleven = "Undici"
+"Undici"
+
+julia> Twelve = "Dodici"
+"Dodici"
+
+julia> Thirteen = "Tredici"
+"Tredici"
+
+julia> Fourteen = "Quattrodici"
+"Quattrodici"
+
+julia> Fifteen = "Quindici"
+"Quindici"
+
+julia> Sixteen = "Sedici"
+"Sedici"
+
+julia> Seventeen = "Diciassette"
+"Diciassette"
+
+julia> Eighteen = "Diciotto"
+"Diciotto"
+
+julia> Nineteen = "Diciannove"
+"Diciannove"
+
+julia> Twenty = "Venti"
+"Venti"
+
+julia> Thirty = "trenta"
+"trenta"
+
+julia> Fourty = "Quaranta"
+"Quaranta"
+
+julia> Fifty = "Cinquanta"
+"Cinquanta"
+
+julia> Sixty = "Sessanta"
+"Sessanta"
+
+julia> Seventy = "Settanta"
+"Settanta"
+
+julia> Eighty = "Ottanta"
+"Ottanta"
+
+julia> Ninety = "Novanta"
+"Novanta"
+
+julia> One_Hundred = "cento"
+"cento"
