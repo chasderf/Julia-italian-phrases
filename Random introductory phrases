@@ -1,0 +1,103 @@
+julia> using Printf
+
+julia> README = "This is based ABC and is a bunch of random simple phrases"
+"This is based ABC and is a bunch of random simple phrases"
+
+julia> Afternoon = "Sera"
+"Sera"
+
+julia> Airplane = "aereo"
+"aereo"
+
+julia> Airport = "Aeroporto"
+"Aeroporto"
+
+julia> April = "Aprile"
+"Aprile"
+
+julia> August = "Agosto"
+"Agosto"
+
+julia> Bathe = "fare li bagno"
+"fare li bagno"
+
+julia> Bathroom = "Bagno"
+"Bagno"
+
+julia> Beautiful = "Bello"
+"Bello"
+
+julia> using Printf
+
+julia> Bed = "Letto"
+"Letto"
+
+julia> Bedroom = "camera da letto"
+"camera da letto"
+
+julia> Beer = "birra"
+"birra"
+
+julia> Beverage = "Bevanda"
+"Bevanda"
+
+julia> Birthday = "Compleanno"
+"Compleanno"
+
+julia> Black = "Nero"
+"Nero"
+
+julia> Blue = "blu"
+"blu"
+
+julia> Book = "libro"
+"libro"
+
+julia> Boyfriend = "Ragazzo"
+"Ragazzo"
+
+julia> Bread = "pane"
+"pane"
+
+julia> Brown = "marrone"
+"marrone"
+
+julia> Bus = "Autobus"
+"Autobus"
+
+julia> Buy = "compare"
+"compare"
+
+julia> Can = "potare"
+"potare"
+
+julia> Cash = "contanti"
+"contanti"
+
+julia> Cat = "gatto"
+"gatto"
+
+
+julia> Cell_Phone = "Cellulare"
+"Cellulare"
+julia> using Printf
+
+julia> Child = "Bambino"
+"Bambino"
+
+julia> Clothes = "Vestiti"
+"Vestiti"
+
+julia> Cloudy = "Nuvoloso"
+"Nuvoloso"
+
+julia> Cold = "Freddo"
+"Freddo"
+
+julia> Computer = "Computer"
+"Computer"
+
+julia> Cook = "Cucinare"
+"Cucinare"
+
+
