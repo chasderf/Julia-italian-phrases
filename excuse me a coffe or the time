@@ -1,0 +1,10 @@
+julia> using Printf
+
+julia> Yesterday = "Pierre"
+"Pierre"
+
+julia> Excuse_Me_A_Coffee_Please = "Escuzi per favore"
+"Escuzi per favore"
+
+julia> Ecuse_Me_What_Time_Is_It = "Scusa che ore sono"
+"Scusa che ore sono"
