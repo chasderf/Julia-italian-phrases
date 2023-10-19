@@ -1,0 +1,32 @@
+julia> using Printf
+
+julia> t0 = "Passare = to pass (the salt)"
+"Passare = to pass (the salt)"
+
+julia> t1 = "Portare = to bring"
+"Portare = to bring"
+
+julia> t1 = "La ringrazio = thank you (formal)"
+"La ringrazio = thank you (formal)"
+
+julia> t2 = "Buona sera = good evening"
+"Buona sera = good evening"
+
+julia> t3 = "Arrivederci = good bye (formality)"
+"Arrivederci = good bye (formality)"
+
+julia> t4 = "A presto = See you soon or simply soon"
+"A presto = See you soon or simply soon"
+
+julia> t5 = "Parli inglese = do you speak english informal"
+"Parli inglese = do you speak english informal"
+
+julia> using Printf
+
+julia> i111 = "Mi dispiace motlo = I am very sorry"
+"Mi dispiace motlo = I am very sorry"
+
+julia> i222 = "Mi dispiace tanto"
+"Mi dispiace tanto"
+
+julia>
