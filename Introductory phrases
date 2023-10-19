@@ -1,0 +1,33 @@
+julia> using Printf
+
+julia> i1 = "E tu (informal) = and you"
+"E tu (informal) = and you"
+
+julia> i2 = "Ancio = Me too"
+"Ancio = Me too"
+
+julia> i3 = "piacere di conoscerti = Nice to meet you"
+"piacere di conoscerti = Nice to meet you"
+
+julia> i4 = "Come si chiama = whats your name"
+"Come si chiama = whats your name"
+
+julia> i5 = "Mi chiamo = my name is"
+"Mi chiamo = my name is"
+
+julia> i6 = "Di dove = where are you from"
+"Di dove = where are you from"
+
+julia> i7 = "Buon Pomerigio = Good afternoon"
+"Buon Pomerigio = Good afternoon"
+
+julia> i8 = "Buona notte = Good Night"
+"Buona notte = Good Night"
+
+julia> i9 = "A presto = see you soon"
+"A presto = see you soon"
+
+julia> i10 = "Ci vediamo domani = see you tommorow"
+"Ci vediamo domani = see you tommorow"
+
+julia>
