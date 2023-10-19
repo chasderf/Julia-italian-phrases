@@ -1,0 +1,20 @@
+julia> using Printf
+
+julia> Im_Sorry = "Mi dispiace"
+"Mi dispiace"
+
+julia> using Printf
+
+julia> Excuse_Me_Informal = "Scusa"
+"Scusa"
+
+julia> Excuse_Me_Formal = "Scusi"
+"Scusi"
+
+julia> Excuse_Me = "Scusa"
+"Scusa"
+
+julia> I_Beg_Your_Pardon = "Scusami"
+"Scusami"
+
+julia>
