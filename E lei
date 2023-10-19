@@ -1,0 +1,19 @@
+julia> using Printf
+
+julia> using Statistics
+
+julia> println("Ciao mi bambino")
+Ciao mi bambino
+
+julia> s1 = "Ciao mi bambino"
+"Ciao mi bambino"
+
+julia> print(s1)
+Ciao mi bambino
+julia> println(s1)
+Ciao mi bambino
+
+julia> print("Ciao mi bambino")
+Ciao mi bambino
+julia> s2 = "E lei (formal) = and you"
+"E lei (formal) = and you"
